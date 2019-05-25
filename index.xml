@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CaiJi Group</title>
+    <link>https://Lhant.github.io/</link>
+    <description>Recent content on CaiJi Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 May 2019 11:01:33 +0800</lastBuildDate>
+    
+	<atom:link href="https://Lhant.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>使用方法及下载</title>
+      <link>https://Lhant.github.io/post/tool/</link>
+      <pubDate>Sat, 25 May 2019 11:01:33 +0800</pubDate>
+      
+      <guid>https://Lhant.github.io/post/tool/</guid>
+      <description>##下载链接 github下载
+度盘下载： 链接:https://pan.baidu.com/s/1zpGhjknrpgdiwZtu69rXpQ 提取码:gxyt
+解压密码：caiji123456 使用方法 安卓和PC请下载工具包，IOS请自力更生
+安卓：下载后解压，安装apk
+IOS：自力更生
+PC：下载后解压，其中有一个windows的压缩包，解压，
+将里面的一个带图标的xxray.exe放到解压后的根目录，
+运行。因为chrome插件我的是旧版有可能不能拖拽安装
+SwitchySharp插件，现在应该有新版本总之安装到浏览器
+SOCKS 那栏里填写:127.0.0.1,端口 ：23333（填写20000以上的，以免忘记记为端口A）
+打开你的xxray.exe填写内容（后面会写），参数设置-基础设置-本地监听端口
+填写一个20000以上的，这个一定要和端口A一致
+如果要玩端游：请安装SStap，模式选择仅代理国外
+类型：sock5
+ip：127.0.0.1
+端口号：端口A
+其余不用填写
+参数填写 群主会发给你：一个ip地址，一个一长串的uuid，一个alterid，还有端口
+ip：服务器主机ip那里
+端口：端口
+uuid：uuid
+alterid：alterid/额外id
+加密选择：pc/性能别太水的手机选择aes-128-gcm那个,诺基亚选择chacha那个
+本地端口：端口A 请注意 使用的时候开启，不用的时候关闭
+我都这么写了，看不懂退群吧</description>
+    </item>
+    
+    <item>
+      <title>公告&#43;进群须知</title>
+      <link>https://Lhant.github.io/post/post/</link>
+      <pubDate>Sat, 25 May 2019 11:01:33 +0800</pubDate>
+      
+      <guid>https://Lhant.github.io/post/post/</guid>
+      <description>公告内容 1：合租请自觉限速2m/s，禁止挂BT下载，友好合租 2：禁止分享给其他人使用，仅为自用 3：每月24日前如果继续合租的群友请转交租，群主会提前10天左右告 知本月价格 blog界面是抄下来的，抄作业真的爽</description>
+    </item>
+    
+  </channel>
+</rss>
